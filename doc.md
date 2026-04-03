@@ -1,0 +1,40 @@
+## Patch Variables:
+
+* __AiModel__ ```String```
+* __AiPitch__ ```Number```
+* __AiResponse__ ```String``` (default Value: `New String`)
+* __AiSpeechSpeed__ ```Number```
+* __AiSpeechVoice__ ```String```
+* __AiVoiceindex__ ```Number```
+* __apikey__ ```String```
+* __canvas_height__ ```Number```
+* __canvas_width__ ```Number```
+* __enhance__ ```String```
+* __fetch_image_height__ ```Number```
+* __fetch_image_width__ ```Number```
+* __FetchedResponse__ ```Object```
+* __frequency_penalty__ ```Number```
+* __max_tokens__ ```Number```
+* __model__ ```String```
+* __presence_penalty__ ```Number```
+* __prompt__ ```String```
+* __quality__ ```String```
+* __repetition_penalty__ ```Number```
+* __ResponseDuration__ ```Number```
+* __resulttime__ ```Number```
+* __safe__ ```String```
+* __Say__ ```Number```
+* __seed__ ```Number```
+* __Speech__ ```Number```
+* __state__ ```Number```
+* __statutcode__ ```Number```
+* __system__ ```String```
+* __temperature__ ```Number```
+* __top_p__ ```Number```
+* __UserPitch__ ```Number```
+* __UserPrompt__ ```String```
+* __UserPromptImage__ ```String```
+* __UserSpeechSpeed__ ```Number```
+* __UserSpeechVoice__ ```String```
+* __UserVoiceIndex__ ```Number```
+
